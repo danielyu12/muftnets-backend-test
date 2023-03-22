@@ -1,0 +1,8 @@
+# Ignore files
+__pycache__
+RTT.py
+selenium.py
+tkinterTest.py
+*.docx
+*.pdf
+__pycache__
