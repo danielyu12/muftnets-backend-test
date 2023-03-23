@@ -6,3 +6,4 @@ tkinterTest.py
 *.docx
 *.pdf
 __pycache__
+/venv
